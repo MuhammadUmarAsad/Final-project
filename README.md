@@ -97,3 +97,8 @@ The team with more assets wins the game.
 Run the 'Chessopoly.py' file to run the program
 
 HAVE FUN!  
+
+Wow gappades
+
+Hurrah!!!
+TESTING 123
